@@ -12,4 +12,6 @@ coursera Emotion Detector
 6) git push
 
 
-8) git clone 
+8) git clone
+9) git clone git@github.com:Joejokelly/EmotionDetector.git
+10) 
